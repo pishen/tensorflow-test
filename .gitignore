@@ -1,0 +1,7 @@
+lib/
+.vscode/
+bin/
+include/
+.Python
+pip-selfcheck.json
+MNIST-data/
